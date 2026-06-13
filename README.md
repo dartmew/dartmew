@@ -33,6 +33,12 @@
 - Писать базовые тесты на pytest
 - Работать в команде с Git (ветки, pull requests, ревью)
 
+## 🚀 Мои проекты
+
+- **[pilepack](https://pypi.org/project/pilepack/)** – CLI-утилита для упаковки кодовой базы в один файл для анализа AI.  
+  Тесты, покрытие 84%, автоматическая публикация через GitHub Actions.  
+  [GitHub](https://github.com/dartmew/pilepack) · [PyPI](https://pypi.org/project/pilepack/)
+
 ## 📫 Контакты
 
 - Email: [dartmew@yandex.com](mailto:dartmew@yandex.com)
