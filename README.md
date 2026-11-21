@@ -34,6 +34,10 @@ Currently working as an economist — which taught me structure, analytics, and 
 - **[pilepack](https://github.com/dartmew/pilepack)** – CLI tool to pack your codebase into a single file for AI analysis.
 [![PyPI version](https://badge.fury.io/py/pilepack.svg)](https://pypi.org/project/pilepack/)
 
+## 📊 Language stats (by lines of code)
+
+![Language stats](https://github-readme-stats.vercel.app/api/top-languages?username=dartmew&layout=compact&theme=dark)
+
 ## 📫 Contact
 
 - Email: [dartmew@yandex.com](mailto:dartmew@yandex.com)
