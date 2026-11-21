@@ -36,7 +36,7 @@ Currently working as an economist — which taught me structure, analytics, and 
 
 ## 📊 Language stats (by lines of code)
 
-![Language stats](https://github-readme-stats.vercel.app/api/top-languages?username=dartmew&layout=compact&theme=dark)
+![Language stats](https://github-readme-stats.com/api/top-languages?username=dartmew&layout=compact&theme=dark)
 
 ## 📫 Contact
 
